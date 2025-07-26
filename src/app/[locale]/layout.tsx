@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation';
 import { PostHogProvider } from '@/components/analytics/PostHogProvider';
 import { DemoBadge } from '@/components/DemoBadge';
 import { routing } from '@/libs/I18nRouting';
+import '../globals.css';
 import '@/styles/global.css';
 
 export const metadata: Metadata = {
