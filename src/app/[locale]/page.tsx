@@ -1,8 +1,6 @@
 import Hero from './_components/Hero';
 import Navbar from './_components/Navbar';
 import ServiceCard from './_components/ServiceCard';
-
-
 export default function Home() {
   return (
     <div>
