@@ -1,6 +1,6 @@
-import Hero from '../../components/Hero';
-import Navbar from '../../components/Navbar';
-import ServiceCard from '../../components/ServiceCard';
+import Hero from '../../components/Hero.tsx';
+import Navbar from '../../components/Navbar.tsx';
+import ServiceCard from '../../components/ServiceCard.tsx';
 
 export default function Home() {
   return (
