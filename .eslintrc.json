@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    "import/newline-after-import": "off",
+    "tailwindcss/classnames-order": "off",
+    "quotes": "off",
+    "@next/next/no-html-link-for-pages": "off"
+  }
+}
